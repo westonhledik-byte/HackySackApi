@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Inside Kick", "difficulty": 1, "category": "basic" },
+  { "id": 2, "name": "Outside Kick", "difficulty": 1, "category": "basic" },
+  { "id": 3, "name": "Toe Stall", "difficulty": 2, "category": "stall" },
+  { "id": 4, "name": "Clipper", "difficulty": 3, "category": "stall" },
+  { "id": 5, "name": "Around the World", "difficulty": 4, "category": "dex" }
+]
